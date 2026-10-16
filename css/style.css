@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-banner {
+    height: 100vh;
+    background: url("../assets/Florestas.png") center center / cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.5);
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.titulo {
+    color: #ffffff;
+}
+
+.icon {
+    position: absolute;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    font-size: 80px;
+}
+
+.img-banner2 {
+    height: 100vh;
+    background: url("../assets/praias.png") center center / cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.5);
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.img-banner3 {
+    height: 100vh;
+    background: url("../assets/montanhas.png") center center / cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.5);
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+
+}
+
+.img-banner4 {
+    height: 100vh;
+    background: url("../assets/sol.png") center center / cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.5);
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
